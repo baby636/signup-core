@@ -36,7 +36,7 @@
     "babel-loader": "^8.1.0",
     "babel-plugin-transform-inline-environment-variables": "^0.4.3",
     "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.0.0"
   },
   "dependencies": {
     "axios": "^0.21.1",
